@@ -4,12 +4,13 @@ Softwear Engineer 👨‍💻
 
 Now working as a backend engineer for 🏢[Manabo.Inc](https://www.manabo.com/).
 
+
+In private, I often browse topics for game creation. (Rust, Godot, Blender, etc...)
+
+
 ## 🔧 Skills
 
-My skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,deno,ocaml,godot,postgres,react)](https://skillicons.dev)
-
-
 
 ## 🗞️ Publications
 
@@ -29,5 +30,4 @@ My skills
 
 ### Special thunks
 
-I referenced this article to write my profile.
-https://zenn.dev/chot/articles/3421ec6f622f82
+I referenced this article to write my profile.<br>https://zenn.dev/chot/articles/3421ec6f622f82

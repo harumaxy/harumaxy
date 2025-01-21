@@ -10,7 +10,7 @@ In private, I often browse topics for game creation. (Rust, Godot, Blender, etc.
 
 ## 🔧 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,deno,ocaml,godot,postgres,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,elysia,deno,ocaml,godot,postgres,react,elixir,go)](https://skillicons.dev)
 
 ## 🗞️ Publications
 

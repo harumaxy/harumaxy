@@ -31,3 +31,4 @@ In private, I often browse topics for game creation. (Rust, Godot, Blender, etc.
 ### Special thunks
 
 I referenced this article to write my profile.<br>https://zenn.dev/chot/articles/3421ec6f622f82
+

@@ -2,7 +2,7 @@
 
 Softwear Engineer 👨‍💻
 
-Now working as a backend engineer for 🏢[Manabo.Inc](https://www.manabo.com/).
+Working as a backend engineer.
 
 
 In private, I often browse topics for game creation. (Rust, Godot, Blender, etc...)

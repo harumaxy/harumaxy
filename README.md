@@ -2,7 +2,7 @@
 
 Softwear Engineer 👨‍💻
 
-Working as a backend engineer.
+Working as a Full-stack web engineer.
 
 
 In private, I often browse topics for game creation. (Rust, Godot, Blender, etc...)

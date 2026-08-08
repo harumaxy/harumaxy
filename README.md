@@ -21,7 +21,7 @@ In private, I often browse topics for game creation. (Rust, Godot, Blender, etc.
 
 ## 📈 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harumaxy&theme=merko)](https://github.com/harumaxy/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=harumaxy)](https://github.com/stats-organization/github-stats-extended)
 
 ## 🏆 Trophies
 

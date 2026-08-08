@@ -25,7 +25,7 @@ In private, I often browse topics for game creation. (Rust, Godot, Blender, etc.
 
 ## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-orcin-eta.vercel.app/?username=harumaxy)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Special thunks
